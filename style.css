@@ -20,6 +20,10 @@
 		background-color:red;
 		display:flex;
 	}
+nav ul li:hover{
+		background-color:yellow;
+		transition:0;
+	}
   .logo{
 	  	width:50%;
 		height:100px;
